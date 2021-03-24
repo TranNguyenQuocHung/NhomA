@@ -12,6 +12,8 @@
   <input type="text" id="fname" name="fname"><br>
   <label for="fname">Password:</label><br>
   <input type="password" id="fname" name="fname"><br>
+
+  <input type="submit" value="Login">
 </form>
 </body>
 </html>
