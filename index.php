@@ -20,6 +20,7 @@ session_start();
                   $_POST['password'] == 'admin') {
                   
                   echo 'Đăng nhập thành công';
+              
                }else {
                   $msg = 'Đăng nhập thất bại';
                }
