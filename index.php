@@ -10,6 +10,8 @@
 <form>
   <label for="fname">Username:</label><br>
   <input type="text" id="fname" name="fname"><br>
+  <label for="fname">Password:</label><br>
+  <input type="password" id="fname" name="fname"><br>
 </form>
 </body>
 </html>
